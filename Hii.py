@@ -1,65 +1,65 @@
 #made by shivam
 import os
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 from ULTRA import bot as javes, CMD_HELP
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 from ULTRA import TEMP_DOWNLOAD_DIRECTORY
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 import   os,re, bs4, requests, io
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from telethon import events
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from pathlib import Path
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX
 from os import remove
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 from bs4 import BeautifulSoup
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from re import findall
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 from urllib.parse import quote_plus
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from requests import get
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from PIL import Image
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from telethon.tl.types import MessageMediaPhoto
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 import urllib
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from bs4 import BeautifulSoup
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 opener = urllib.request.build_opener() ; useragent = 'Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.70 Mobile Safari/537.36' ; opener.addheaders = [('User-agent', useragent)]
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 async def ParseSauce(googleurl):   
     source = opener.open(googleurl).read()
     soup = BeautifulSoup(source, 'html.parser')
@@ -74,7 +74,7 @@ async def ParseSauce(googleurl):
     for best_guess in soup.findAll('div', attrs={'class': 'r5a77d'}):
         results['best_guess'] = best_guess.get_text()
     return results
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 WAAH = os.environ.get("WAIFU_MODE")
 async def scam(results, lim):
     single = opener.open(results['similar_images']).read()
@@ -90,9 +90,9 @@ async def scam(results, lim):
         else:
             break
     return imglinks
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 async def chrome(chrome_options=None):
     if chrome_options is None:
         chrome_options = await options()
@@ -104,12 +104,12 @@ async def chrome(chrome_options=None):
                               options=chrome_options)
     return driver
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Shivam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+#Made by Shivam#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 @javes.on(events.NewMessage(incoming=True))
 async def on_new_message(event):
 		
@@ -145,5 +145,5 @@ Add them to your harem by sending /protecc character name"""
                         await event.reply( f"/protecc {guesss}")
             except Exception as e:
                 pass
-#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made#Made by Shivam
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
