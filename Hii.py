@@ -1,4 +1,5 @@
 #made by shivam
+import os
 opnr = os.environ.get("WAIFU_MODE")
 #Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
@@ -145,7 +146,7 @@ Add them to your harem by sending /protecc character name"""
                       #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
                       #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
                       if opnr:
-                      return await event.reply( f"/protecc {guesss}")
+                        return await event.reply( f"/protecc {guesss}")
             except Exception as e:
                 pass
 #Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made#Made by Shivam
