@@ -1,15 +1,15 @@
 #made by shivam
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from ub import bot as javes, CMD_HELP
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from ULTRA import TEMP_DOWNLOAD_DIRECTORY
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 import   os,re, bs4, requests, io
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from telethon import events
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
@@ -21,27 +21,27 @@ from os import remove
 opner = open("waifu.txt")
 omk = opner.readlines()[1]
 opner.close()
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from bs4 import BeautifulSoup
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from re import findall
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from urllib.parse import quote_plus
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from requests import get
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -51,10 +51,10 @@ from selenium.webdriver.chrome.options import Options
 from PIL import Image
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 from telethon.tl.types import MessageMediaPhoto
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 import urllib
 import os
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
@@ -109,12 +109,12 @@ async def chrome(chrome_options=None):
     driver = webdriver.Chrome(executable_path=CHROME_DRIVER,
                               options=chrome_options)
     return driver
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-#Made by Shivam#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 
 @javes.on(events.NewMessage(incoming=True))
@@ -150,10 +150,10 @@ Add them to your harem by sending /protecc character name"""
                       match = await ParseSauce(fetchUrl +"&preferences?hl=en&fg=1#languages")
                       guess = match['best_guess']
                       guesss = guess[12:]
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+                      #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+                      #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+                      #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
+                      #Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
                       opner = open("waifu.txt")
                       pro = opner.readlines()[0]
                       opner.close()
@@ -164,8 +164,8 @@ Add them to your harem by sending /protecc character name"""
                           await borg.send_message( WAFU_CHATID,f"/protecc {guesss}")
             except Exception as e:
                 pass
-#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made#Made by Shivam
-#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made#Made by PROBOYX, LEGENDX
+#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX#Made by PROBOYX, LEGENDX
 
 
 @javes05(outgoing=True, pattern=r"^!savewafu(?: |$)(.*)")
