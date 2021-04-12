@@ -1,6 +1,5 @@
 #made by shivam
 import os
-opnr = os.environ.get("WAIFU_MODE")
 #Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
 #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
 from ULTRA import bot as javes, CMD_HELP
@@ -76,6 +75,7 @@ async def ParseSauce(googleurl):
         results['best_guess'] = best_guess.get_text()
     return results
 #Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam
+WAAH = os.environ.get("WAIFU_MODE")
 async def scam(results, lim):
     single = opener.open(results['similar_images']).read()
     decoded = single.decode('utf-8')
@@ -141,12 +141,8 @@ Add them to your harem by sending /protecc character name"""
                       match = await ParseSauce(fetchUrl +"&preferences?hl=en&fg=1#languages")
                       guess = match['best_guess']
                       guesss = guess[12:]
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      #Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam#Made by Shivam
-                      if opnr:
-                        return await event.reply( f"/protecc {guesss}")
+                      if WAAH:
+                        await event.reply( f"/protecc {guesss}")
             except Exception as e:
                 pass
 #Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made by Sh1vam#Made#Made by Shivam
