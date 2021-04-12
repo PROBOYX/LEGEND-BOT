@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "Sh1vam"
+          find: "Shivam"
 
           replace: "PROBOYX, LEGENDX"
 
